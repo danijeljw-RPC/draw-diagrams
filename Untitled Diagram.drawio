@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T05:46:57.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="L5grC1-53PqdWnXLhdSw" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T05:47:19.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="kDYYdNShNTrGVO9hHdZE" version="15.9.6" type="github">
   <diagram id="_BcDkpopJyKFB6R8OKZN" name="Page-1">
-    <mxGraphModel dx="4415" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4793" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,9 +132,6 @@
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-merge-128.png" vertex="1" parent="1">
           <mxGeometry x="-712" y="1500" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-128" value="GITHUB REPO" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_git-128.png" vertex="1" parent="1">
-          <mxGeometry x="-1590" y="1173.75" width="81.25" height="81.25" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-133" value="FO_LINUX_VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="193.99689138576775" width="50" height="46" as="geometry" />
@@ -310,18 +307,6 @@
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-216" value="Windows OS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="1">
           <mxGeometry x="-740" y="875" width="56" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-221" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/hardware.png" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="630" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-222" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/apps/hardware.png" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="499" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-223" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-business-desktop-icons/128/Print.png" vertex="1" parent="1">
-          <mxGeometry x="-1362" y="857" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-225" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/apps/hardware.png" vertex="1" parent="1">
-          <mxGeometry x="-1340" y="1066" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-226" value="Driver Install" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
           <mxGeometry x="-744" y="987" width="64" height="64" as="geometry" />
