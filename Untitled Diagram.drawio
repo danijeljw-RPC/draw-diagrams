@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T05:50:50.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="m7HObSREWZnDiEvXe65E" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T05:52:36.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="baQjPMaw6DIcGWA6muUu" version="15.9.6" type="github">
   <diagram id="_BcDkpopJyKFB6R8OKZN" name="Page-1">
-    <mxGraphModel dx="4793" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3759" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-473" y="740" width="175.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-70" value="www.optechx.com" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/WebAppWordPress.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1005.25" y="420" width="49" height="50" as="geometry" />
+          <mxGeometry x="-1014.5" y="460" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-71" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="360" width="40" height="60" as="geometry" />
@@ -44,10 +44,7 @@
           <mxGeometry x="-1019" y="312" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-74" value="api.optechxcom" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1056" y="160.49" width="76.5" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-75" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1082.94" y="1475" width="50" height="50" as="geometry" />
+          <mxGeometry x="-1032.75" y="158" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-77" value="Desktop&lt;br&gt;Application" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_windows;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="180" width="59" height="47" as="geometry" />
@@ -60,9 +57,6 @@
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-98" value="BUILD_VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
           <mxGeometry x="-325" y="403" width="50" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-99" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Windows_Non_Azure.svg;" vertex="1" parent="1">
-          <mxGeometry x="-908.5500000000001" y="1435" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="150" width="120" height="340" as="geometry" />
@@ -82,26 +76,8 @@
         <mxCell id="awUusP9zSpAzIJA0M9YQ-93" value="FO_ORDERS" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
           <mxGeometry x="-659" y="401.84000000000003" width="38" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-103" value="FO_LINUX_VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1412" y="1254.9968913857679" width="50" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-104" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1412" y="1343.4995880149813" width="50" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-107" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="1521" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-109" value="OPTECHX" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;" vertex="1" parent="1">
           <mxGeometry x="-223.75" y="270.84" width="87.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-110" value="FO_PGSQL" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1406" y="1402.9997378277153" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-111" value="BO_APPS" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="1505" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-112" value="BO_DRIVERS" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1372" y="1505" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-113" value="BO_LINUX_VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="-411" y="649.9968913857678" width="50" height="46" as="geometry" />
@@ -118,26 +94,11 @@
         <mxCell id="awUusP9zSpAzIJA0M9YQ-117" value="BO_DRIVERS" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" vertex="1" parent="1">
           <mxGeometry x="-366" y="890" width="38" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-119" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="1320" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-120" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_git-128.png" vertex="1" parent="1">
           <mxGeometry x="-1176" y="756" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-123" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-pull-request-128.png" vertex="1" parent="1">
           <mxGeometry x="-1176" y="1025" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-compare-128.png" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1500" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-branch-128.png" vertex="1" parent="1">
-          <mxGeometry x="-312" y="1475" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-126" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-commit-128.png" vertex="1" parent="1">
-          <mxGeometry x="-528" y="1500" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="awUusP9zSpAzIJA0M9YQ-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-merge-128.png" vertex="1" parent="1">
-          <mxGeometry x="-712" y="1500" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-133" value="FO_LINUX_VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="193.99689138576775" width="50" height="46" as="geometry" />
