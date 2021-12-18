@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T06:28:56.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="cMsmno4c61DtMLEOMCcw" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T06:35:11.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="6vws67EWeJDZ51wIliLH" version="15.9.6" type="github">
   <diagram id="_BcDkpopJyKFB6R8OKZN" name="Page-1">
     <mxGraphModel dx="4267" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry x="-844" y="643.75" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-153" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-260" y="820" width="250" height="430" as="geometry" />
+          <mxGeometry x="-260" y="804" width="250" height="430" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="awUusP9zSpAzIJA0M9YQ-153">
           <mxGeometry width="250" height="430" as="geometry" />
@@ -176,19 +176,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-172" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Worker service will query&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;FO_PGSQL for any orders&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;that have been received&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;by API or APP requests.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-545" y="222" width="160" height="60" as="geometry" />
+          <mxGeometry x="-545" y="239" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-177" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167.75" y="513" width="60" height="280" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-178" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;OPTECHX will request data from&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;FTP storage servers from&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;BO_APPS and BO_ DRIVERS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;to configure/setup VMs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="621" width="190" height="60" as="geometry" />
+          <mxGeometry x="-124" y="621" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-179" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-355" y="516" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-182" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Query FO_PGSQL for&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;each application requested&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;which will then be pulled&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;from BO_FTP_LINUX&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-506" y="540" width="160" height="60" as="geometry" />
+          <mxGeometry x="-504" y="540" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-184" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="210" y="297.4995880149813" width="50" height="41" as="geometry" />
@@ -306,7 +306,13 @@
           <mxGeometry x="-1090" y="1010" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="awUusP9zSpAzIJA0M9YQ-262" value="&lt;div style=&quot;color: rgb(35 , 47 , 62) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Data is requested on schedule&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1133" y="668" width="140" height="36.25" as="geometry" />
+          <mxGeometry x="-1133" y="676" width="140" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="awUusP9zSpAzIJA0M9YQ-263" value="Write functions to write requests&lt;br&gt;to FO_PGSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-912" y="350.85" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awUusP9zSpAzIJA0M9YQ-264" value="Write functions to write requests&lt;br&gt;to FO_PGSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-912" y="233.00000000000003" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
